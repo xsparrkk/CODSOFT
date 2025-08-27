@@ -11,7 +11,7 @@ A simple GUI-based game where you play Rock, Paper, Scissors against the compute
 
 User selects Rock/Paper/Scissors
 
-Computer randomly chooses its move
+The computer randomly chooses its move
 
 Points are awarded to the winner until the game ends
 
@@ -61,7 +61,7 @@ Clone this repository:
 git clone https://github.com/your-username/python-mini-projects.git
 
 
-Open any project file in your IDE (Spyder, VS Code, PyCharm, etc.)
+Open any project file in your IDE (Spyder, VS Code, PyCharm, etc.) {I've used Spyder}
 
 Run the script to start the project
 
