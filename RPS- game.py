@@ -2,7 +2,9 @@
 """
 Created on Tue Aug 26 23:30:07 2025
 
-@author: HP
+@author: Mimansha Pandit
+roll number: 235ucs082
+
 """
 
 import tkinter as tk
@@ -109,3 +111,4 @@ if __name__ == "__main__":
         
         
         
+
